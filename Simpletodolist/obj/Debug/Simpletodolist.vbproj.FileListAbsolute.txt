@@ -1,0 +1,11 @@
+c:\users\macwmwin\documents\visual studio 2012\Projects\Simpletodolist\Simpletodolist\bin\Debug\Simpletodolist.exe.config
+c:\users\macwmwin\documents\visual studio 2012\Projects\Simpletodolist\Simpletodolist\bin\Debug\Simpletodolist.exe
+c:\users\macwmwin\documents\visual studio 2012\Projects\Simpletodolist\Simpletodolist\bin\Debug\Simpletodolist.pdb
+c:\users\macwmwin\documents\visual studio 2012\Projects\Simpletodolist\Simpletodolist\bin\Debug\Simpletodolist.xml
+c:\users\macwmwin\documents\visual studio 2012\Projects\Simpletodolist\Simpletodolist\obj\Debug\Simpletodolist.Resources.resources
+c:\users\macwmwin\documents\visual studio 2012\Projects\Simpletodolist\Simpletodolist\obj\Debug\Simpletodolist.vbproj.GenerateResource.Cache
+c:\users\macwmwin\documents\visual studio 2012\Projects\Simpletodolist\Simpletodolist\obj\Debug\Simpletodolist.exe
+c:\users\macwmwin\documents\visual studio 2012\Projects\Simpletodolist\Simpletodolist\obj\Debug\Simpletodolist.xml
+c:\users\macwmwin\documents\visual studio 2012\Projects\Simpletodolist\Simpletodolist\obj\Debug\Simpletodolist.pdb
+c:\users\macwmwin\documents\visual studio 2012\Projects\Simpletodolist\Simpletodolist\bin\Debug\db.sdf
+c:\users\macwmwin\documents\visual studio 2012\Projects\Simpletodolist\Simpletodolist\obj\Debug\Simpletodolist.MainWindow.resources
